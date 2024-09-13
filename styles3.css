@@ -1,0 +1,53 @@
+tb{
+    width: 500;
+    height: 300;
+}
+th {
+	font-weight: normal;
+}
+h2 {
+	font-style: normal;
+    font-size: 40px;
+    font-family: Courier;
+}
+h1{
+    font-size: 30px;
+	line-height: 45px;
+	text-align: justify;
+	width: 600px; 
+}
+p{
+    font-size: 30px;
+    font-family: Arial;
+    line-height: 1.5;
+}
+p {
+	font: "Times New Roman" 13px/20px;
+}
+p {
+    width: 300px;
+    font: bold 40px Arial; 
+    color: red;
+}
+p {
+	font: bold 40px italic arial;
+	text-indent: 50px;
+	line-height: 60px;
+}
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 600px;
+}
+p {
+	text-decoration: underline;
+}
+p {
+	text-decoration: overline;
+}
+p {
+	text-decoration: line-through;
+}
+a {
+	text-decoration: none;
+}
