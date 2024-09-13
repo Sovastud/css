@@ -1,0 +1,27 @@
+p {
+	color: orange;
+}
+h1{
+    color: green;
+}
+h2{
+    color: blue;
+    width: 300;
+    text-align: center;
+}
+h3{
+    color: red;
+}
+i {
+	color: rgb(47, 0, 255);
+}
+b {
+	color: #91ff00;
+}
+p{
+    width: 300px;
+}
+td {
+	width: 400px;
+	height: 300px;
+}
